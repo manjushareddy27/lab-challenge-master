@@ -1,0 +1,8 @@
+o: ActiveSupport::Cache::Entry	:@value{:	data{	:	typeI"test_panels:ET:idI"TP1;	T:attributes{:
+pricei¤:sample_tube_types[:yellow;:sample_volume_requirementf
+2.2e2:relationships{:	test{;[[{;
+I"CHO;	T;I"	test;	T[{;
+I"	VITD;	T;I"	test;	T:included[{;I"	test;	T;
+I"CHO;	T;{:	nameI"Cholesterol;	T;ii:sample_tube_type;{;I"	test;	T;
+I"	VITD;	T;{;I"Vitamin D;	T;i};;:@versionI"/;	F:@created_atf1632779587.930152:@expires_inf
+1.8e3

@@ -1,0 +1,11 @@
+o: ActiveSupport::Cache::Entry	:@value{:	data{	:	typeI"test_panels:ET:idI"TP2;	T:attributes{:
+pricei4:sample_tube_types[:yellow:purple:sample_volume_requirementf
+2.2e2:relationships{:	test{;[[{;
+I"
+HBA1C;	T;I"	test;	T[{;
+I"B12;	T;I"	test;	T:included[{;I"	test;	T;
+I"B12;	T;{:	nameI"Vitamin B12;	T;i´:sample_tube_type;{;I"	test;	T;
+I"
+HBA1C;	T;{;I"
+HbA1C;	T;i-;;:@versionI"/;	F:@created_atf1632779587.8657038:@expires_inf
+1.8e3

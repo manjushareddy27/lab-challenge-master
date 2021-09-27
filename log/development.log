@@ -1,0 +1,54 @@
+Started GET "/api/v1/test_panels?id=Tp2&include=test&api_key=%2710ae820f-8c24-4e69-888b-03cbc36c89a6%27" for ::1 at 2021-09-27 23:05:18 +0100
+Processing by Api::V1::TestPanelsController#index as HTML
+  Parameters: {"id"=>"Tp2", "include"=>"test", "api_key"=>"'10ae820f-8c24-4e69-888b-03cbc36c89a6'"}
+Completed 404 Not Found in 4ms (Views: 0.3ms)
+
+
+Started GET "/api/v1/test_panels?id=Tp2&include=test&api_key=2710ae820f-8c24-4e69-888b-03cbc36c89a6" for ::1 at 2021-09-27 23:05:26 +0100
+Processing by Api::V1::TestPanelsController#index as HTML
+  Parameters: {"id"=>"Tp2", "include"=>"test", "api_key"=>"2710ae820f-8c24-4e69-888b-03cbc36c89a6"}
+Completed 404 Not Found in 0ms (Views: 0.2ms)
+
+
+Started GET "/api/v1/test_panels?id=Tp2&include=test&api_key=10ae820f-8c24-4e69-888b-03cbc36c89a6" for ::1 at 2021-09-27 23:05:38 +0100
+Processing by Api::V1::TestPanelsController#index as HTML
+  Parameters: {"id"=>"Tp2", "include"=>"test", "api_key"=>"10ae820f-8c24-4e69-888b-03cbc36c89a6"}
+Completed 200 OK in 11ms (Views: 1.3ms)
+
+
+Started GET "/api/v1/test_panels?id=Tp2&include=&api_key=10ae820f-8c24-4e69-888b-03cbc36c89a6" for ::1 at 2021-09-27 23:05:44 +0100
+Processing by Api::V1::TestPanelsController#index as HTML
+  Parameters: {"id"=>"Tp2", "include"=>"", "api_key"=>"10ae820f-8c24-4e69-888b-03cbc36c89a6"}
+Completed 200 OK in 3ms (Views: 0.7ms)
+
+
+Started GET "/api/v1/test_panels?id=T2&include=&api_key=10ae820f-8c24-4e69-888b-03cbc36c89a6" for ::1 at 2021-09-27 23:05:47 +0100
+Processing by Api::V1::TestPanelsController#index as HTML
+  Parameters: {"id"=>"T2", "include"=>"", "api_key"=>"10ae820f-8c24-4e69-888b-03cbc36c89a6"}
+Completed 404 Not Found in 2ms (Views: 1.1ms)
+
+
+Started GET "/api/v1/test_panels?id=TP1&include=&api_key=10ae820f-8c24-4e69-888b-03cbc36c89a6" for ::1 at 2021-09-27 23:05:55 +0100
+Processing by Api::V1::TestPanelsController#index as HTML
+  Parameters: {"id"=>"TP1", "include"=>"", "api_key"=>"10ae820f-8c24-4e69-888b-03cbc36c89a6"}
+Completed 200 OK in 3ms (Views: 0.6ms)
+
+
+Started GET "/api/v1/test_panels?id=TP1&include=test&api_key=10ae820f-8c24-4e69-888b-03cbc36c89a6" for ::1 at 2021-09-27 23:05:59 +0100
+Processing by Api::V1::TestPanelsController#index as HTML
+  Parameters: {"id"=>"TP1", "include"=>"test", "api_key"=>"10ae820f-8c24-4e69-888b-03cbc36c89a6"}
+Completed 200 OK in 5ms (Views: 3.6ms)
+
+
+Started GET "/api/v1/test_panels?id=&include=test&api_key=10ae820f-8c24-4e69-888b-03cbc36c89a6" for ::1 at 2021-09-27 23:06:07 +0100
+Processing by Api::V1::TestPanelsController#index as HTML
+  Parameters: {"id"=>"", "include"=>"test", "api_key"=>"10ae820f-8c24-4e69-888b-03cbc36c89a6"}
+Completed 404 Not Found in 1ms (Views: 0.6ms)
+
+
+Started GET "/api/v1/test_panels?id=TP1&include=test&api_key=10ae820f-8c24-4e69-888b-03cbc36c89a6" for ::1 at 2021-09-27 23:06:12 +0100
+Processing by Api::V1::TestPanelsController#index as HTML
+  Parameters: {"id"=>"TP1", "include"=>"test", "api_key"=>"10ae820f-8c24-4e69-888b-03cbc36c89a6"}
+Completed 200 OK in 2ms (Views: 1.1ms)
+
+
